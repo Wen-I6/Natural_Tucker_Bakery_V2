@@ -1,0 +1,38 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Natural Tucker Bakery",
+      "address": "809 Nicholson St, Carlton North VIC 3054",
+      "phone": "(03) 9078 4137",
+      "openingHours": "MON- SUN 7am - 4pm or sold out"
+    },
+    {
+      "id": 2,
+      "name": "The Billy Cart Bread Co.",
+      "address": "Psarakos Market, 2/8 Clarendon St, Thornbury VIC 3071",
+      "phone": "(03) 9480 1748",
+      "openingHours": "MON- SUN 7am - 4pm or sold out"
+    },
+    {
+      "id": 3,
+      "name": "Kneadful Things",
+      "address": "116 Station St, Fairfield VIC 3078",
+      "phone": "(03) 9078 4137",
+      "openingHours": "MON- SUN 7am - 4pm or sold out"
+    },
+    {
+      "id": 4,
+      "name": "The Bakers Block",
+      "address": "7 McDougall St, Brunswick VIC 3056",
+      "openingHours": "MON- SUN 7am - 4pm or sold out"
+    },
+    {
+      "id": 5,
+      "name": "Grain Peddler Artisan Bakery",
+      "address": "809 Nicholson St, Carlton North VIC 3054",
+      "phone": "0466 469 320",
+      "openingHours": "MON- SUN 7am - 4pm or sold out"
+    }
+  ]
+}
